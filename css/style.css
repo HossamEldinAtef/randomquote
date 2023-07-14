@@ -1,0 +1,14 @@
+.heading{
+
+    font-size: 80px;
+
+}
+
+.para{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.btn:hover{
+    background-color: green;
+}
